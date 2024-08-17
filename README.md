@@ -7,7 +7,7 @@
 
 > <p>Projeto realizado na Alura, Agosto 2024.</p>
 >
-> <p>Avançando no jogo do número secreto por intermédio da manipulação do conteúdo HTML com Javascript através da função <i>document.querySelector()</i> e o <i>innerHTML</i>. Conceitos de funções com parâmetros, funções com retorno (<i>return</i>) e valores booleanos (<i>true or false</i>). Reforçando a utilização das estruturas condicionais (<i>if e else</i>) e operadores de comparação. Implementando a reinicialização do jogo mediante o <i>document.getElementById</i> e o <i>removeAttribute</i>. Abordando o conceito de listas (<i>arrays</i>), sua manipulação via os métodos <i>includes</i>, <i>length</i>, <i>push</i> <i>pop</i> e o comportamento dos índices. Adicionando voz ao jogo com a função <i>responseVoice.speak()</i>. Introdução ao GitHub.</p>
+> <p>Visando reforçar todos os conceitos vistos em lógica de programação, o curso propôs vários desafios práticos abordando o uso de variáveis, condicionais, estruturas de repetição e interação com HTML. Manipulação do DOM através da seleção de elementos (<i>getElementById, querySelector</i>), modificação de conteúdo (<i>innerHTML, textContent</i>) e gerenciamento de classes (<i>classList.contains, classList.add, classList.remove</i>). Trabalhando com variáveis e tipos de dados (<i>let, const, string, number</i>), operações com strings (<i>template strings, split</i>) e conversão de tipos com <i>parseInt</i>. Adicionando elementos com <i>push</i>. Estruturas de controle (<i>if/else, for</i>). Recuperação de valores de formulários (<i>value</i>) e validação de dados. Utilização de listas (<i>arrays</i>) ordenadas e como embaralha-las.</p>
 
 ⚡
 
