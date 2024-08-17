@@ -28,13 +28,28 @@
 
 <h2>💻 Projetos</h2>
 
+Simulando uma locadora de jogos, alugando e devolvendo boardgames:
+
 ✔️ [ALUGAMES](https://alura-logicaprogramacao-alugames.vercel.app/) 
 
-✔️ [AMIGO SECRETO](https://alura-logicaprogramacao-amigo-secreto.vercel.app/) 
+Gerando sorteio de um amigo secreto de acordo com uma lista de nomes:
+
+✔️ [AMIGO SECRETO](https://alura-logicaprogramacao-amigo-secreto.vercel.app/)
+
+Adicionando vários itens ao carrinho de compra e realizando a somatória dos valores:
 
 ✔️ [CARRINHO DE COMPRAS](https://alura-logicaprogramacao-carrinho-compras.vercel.app/) 
 
+Apresentando um site de compra de ingressos online para determinados setores de um show com possibilitade de limite de estoque:
+
 ✔️ [INGRESSO ONLINE](https://alura-logicaprogramacao-ingresso.vercel.app/) 
 
+Sorteando determinada quantidade de números aleatórios de acordo com a lista sequencial indicada:
+
 ✔️ [SORTEADOR DE NÚMEROS](https://alura-logicaprogramacao-sorteador-numeros.vercel.app/) 
+
+Desafios gerais para aprimorar a lógica de programação:
+
+✔️ [DESAFIOS COMPLEMENTARES](https://github.com/dcampos90/alura_logicaprogramacao-desafios/blob/main/desafios%20complementares/app.js) 
+***
 
